@@ -9,5 +9,4 @@ public class Zero1Saralash2DemoApplication {
     public static void main(String[] args) {
         SpringApplication.run(Zero1Saralash2DemoApplication.class, args);
     }
-
 }
